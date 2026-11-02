@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="9Imk8PZRyMU0irPPrI9c">
+    <mxGraphModel dx="934" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-19" edge="1" parent="1" source="6G_qiFEHZuAmFZFOWW8Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6G_qiFEHZuAmFZFOWW8Z-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="START" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-21" edge="1" parent="1" source="6G_qiFEHZuAmFZFOWW8Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6G_qiFEHZuAmFZFOWW8Z-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Load expenses from expenses.txt" vertex="1">
+          <mxGeometry height="60" width="360" x="240" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-20" edge="1" parent="1" source="6G_qiFEHZuAmFZFOWW8Z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6G_qiFEHZuAmFZFOWW8Z-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Run Main.java" vertex="1">
+          <mxGeometry height="60" width="360" x="240" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-33" edge="1" parent="1" source="6G_qiFEHZuAmFZFOWW8Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6G_qiFEHZuAmFZFOWW8Z-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Display main menu" vertex="1">
+          <mxGeometry height="60" width="360" x="240" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Select an option" vertex="1">
+          <mxGeometry height="70" width="380" x="250" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="1. Add Expense" vertex="1">
+          <mxGeometry height="60" width="140" x="250" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="2. View Expenses" vertex="1">
+          <mxGeometry height="60" width="150" x="470" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="3. Calculate Total" vertex="1">
+          <mxGeometry height="60" width="140" x="250" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="4. Exit" vertex="1">
+          <mxGeometry height="60" width="150" x="470" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-42" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="20" x="420" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-43" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="70" width="20" x="420" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-46" edge="1" parent="1" source="6G_qiFEHZuAmFZFOWW8Z-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6G_qiFEHZuAmFZFOWW8Z-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Save expenses to expenses.txt" vertex="1">
+          <mxGeometry height="60" width="360" x="250" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_qiFEHZuAmFZFOWW8Z-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="END" vertex="1">
+          <mxGeometry height="60" width="160" x="350" y="1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
